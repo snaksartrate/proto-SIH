@@ -1,0 +1,32 @@
+Smart Travel Companion App – Features
+
+1. Core Travel Features
+- Interactive Map & Live Tracking (real-time navigation, ride tracking).
+- Ride Booking (intra-city cabs/bikes, intercity buses/trains).
+- Accommodation & Food Suggestions (hotels, homestays, restaurants).
+- Pre-made Tour Packages (customizable trips).
+
+2. AI-Powered Assistance
+- Tour Guide Chatbot (ChatGPT API, multilingual, instant answers).
+- Personalized Itinerary Builder (day plans, time optimization).
+- Local Scam Alerts (warnings & user-reported alerts).
+
+3. Safety & SOS Features
+- SOS Emergency Mode (trigger via button, overrides inputs).
+- Sends draft SOS message (text/audio/video) + call + location sharing.
+- Local Emergency Directory (police, ambulance, fire, tourist helplines).
+
+4. Experience & Engagement
+- Curated Experiences Marketplace (shows, adventure sports, food walks).
+- Community Sharing (itineraries, reviews, scam alerts).
+- Smart Notifications (rides, check-ins, events).
+
+5. Differentiators
+- Combines transport, stay, food & safety in one app.
+- AI-driven chatbot + itinerary planning.
+- SOS button integration with message + call.
+- Supports both spontaneous & planned travel.
+
+
+
+

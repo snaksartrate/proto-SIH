@@ -1,0 +1,74 @@
+Features to Implement Fully
+
+1. Map & Tracking (Google Maps API)
+
+   * Show user’s current location.
+   * Simulate a tour route (could just be pre-defined points).
+   * Allow basic navigation/tracking.
+
+2. Chatbot (ChatGPT API)
+
+   * Ask touristy questions (“What to do near Gateway of India?”).
+   * Get AI-generated answers in conversational style.
+   * Bonus: Multi-language support.
+
+3. SOS Service (Indigenous Implementation)
+
+   * Volume-down button long-press → sends SOS text to dummy number + shows alert.
+   * Share location in the SOS message.
+   * Mock video/audio option (store locally, no real send).
+
+Features to Prototype with Mockups / Limited Integration
+
+4. Accommodation & Ride Booking
+
+   * Instead of integrating Booking.com, Airbnb, Ola, Uber, RedBus all at once →
+   * Use scraper + aggregator prototype:
+
+     * Example: query one site via API (e.g., Booking.com’s open API).
+     * For others, show mock data / dummy deals (static JSON).
+   * Present the “best deal” algorithm (even if data is limited).
+
+5. Smart Itinerary Planner (AI)
+
+   * Keep a rule-based + ChatGPT hybrid:
+
+     * Rule-based: “If user likes food → suggest top 3 restaurants nearby.”
+     * AI: Use GPT to polish the itinerary into a “tour guide tone.”
+   * Works as a teaser of what full AI-planner can be.
+
+Features to **Keep as Placeholders**
+
+6. Tour Packages
+
+   * Just show pre-designed packages (static content).
+   * Label as “Coming Soon: Dynamic Packages.”
+
+7. Scam Alerts / Community Reports
+
+   * Mock alerts (“Beware of overcharging taxis near XYZ”).
+   * Indicate crowd-sourced data as future scope.
+
+
+
+
+
+
+
+Deliverable Prototype
+
+* APK with:
+  ✅ Maps tracking
+  ✅ Chatbot
+  ✅ SOS trigger
+  🟡 Accommodation + Ride search (limited but working)
+  🟡 Basic itinerary planner
+
+* Other features → well-presented placeholders in the UI (greyed out, “Coming Soon”).
+
+---
+
+👉 This way, the app **feels real and useful** in the demo (since maps/chatbot/SOS actually work), while still showcasing the **big vision** (planner, aggregator, scam alerts, packages).
+
+---
+
