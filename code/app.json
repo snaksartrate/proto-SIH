@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "SIH Proto",
+    "slug": "sih-proto-241070074",
+    "scheme": "sihproto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "51.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sih.proto241070074",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION" ]
+    }
+  }
+}
+
